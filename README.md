@@ -5,9 +5,8 @@ This repo contains my hands-on projects, CTF writeups, and AI-engineered prompts
 ##What’s here
 
 steganography-gui/ — Simple LSB + marker-based stego tool with a "Ghost Layers" GUI. Backend is pure Python; GUI is themed. Includes usage examples.
-prompts/ — Reproducible AI prompts (with versioned results) showing step-by-step prompt engineering for automation and learning.
-ctf-writeups/ — Detailed writeups of labs and challenge resolutions (commands, reasoning, mitigation).
-tools/ — Small scripts: scanner, parser, report generator.
+ctf — challenge resolutions (commands, reasoning, mitigation).
+tools/ — Small scripts
 
 ##How I work
 Every project includes:
