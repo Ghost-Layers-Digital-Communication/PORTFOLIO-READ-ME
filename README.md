@@ -1,3 +1,6 @@
+it's better doing business with me than against me...
+
+
 ##Practical Infosec Portfolio —
 
 This repo contains my hands-on projects, CTF writeups, and AI-engineered prompts used to learn and automate security tasks ethically and transparently.
