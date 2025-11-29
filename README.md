@@ -92,8 +92,8 @@ Python Security Tools & Utilities (GitHub Projects)
 
 WORK HISTORY
 
-Independent Cybersecurity Researcher / Technician
-2020–Present
+Independent Cybersecurity Researcher / Technician (2020–Present)
+
 • Designed security tooling, performed controlled offensive testing, and developed encryption/communication solutions.
 • Performed shellcode generation using Veil, steganography-based covert communication studies, and forensic reconstruction.
 • Conducted hardware analysis, wireless testing, and advanced cybersecurity experimentation.
@@ -104,6 +104,7 @@ Independent Cybersecurity Researcher / Technician
 EDUCATION
 
 Self-Taught / Independent Study (2020–Present)
+
 • Ethical hacking & penetration testing
 • Linux systems administration
 • Networking & wireless security
